@@ -1,5 +1,5 @@
 ### SEJA MUITO BEM VINDO! 👋
-<p>teste</p>
+<p>Uma pessoa apaixonada por tecnologia! Sempre tive o sonho de trabalhar com programação e suas áreas</p>
 
 <div>
   <a href="https://github.com/mazziera">
