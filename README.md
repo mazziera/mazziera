@@ -1,5 +1,9 @@
-### SEJA MUITO BEM VINDO! 👋
-<p>Uma pessoa apaixonada por tecnologia! Sempre tive o sonho de trabalhar com programação e suas áreas</p>
+### Olá! Eu sou o Raphael Mazzieri! 👋
+
+<p>Formado em Análise e Desenvolvimento de Sistemas</p>
+<p>Uma pessoa apaixonada por tecnologia! Sempre tive o sonho em trabalhar com programação e suas áreas.</p>
+
+<p>Atualmente estudando HTML5, CSS3, Javascript</p>
 
 <div>
   <a href="https://github.com/mazziera">
