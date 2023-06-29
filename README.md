@@ -5,7 +5,7 @@
 
 <p>Atualmente estudando HTML5, CSS3, Javascript</p>
 
-Dá uma olhada no meu mini-portfolio >>> https://mazziera.github.io/Mini-Portfolio/
+Dá uma olhada no meu portfólio >>> https://mazziera.github.io/portfolio-raphael-mazzieri/
 
 <div>
   <a href="https://github.com/mazziera">
