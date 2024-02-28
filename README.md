@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Raphael Mazzieri! 👋
 
 <p>Formado em Análise e Desenvolvimento de Sistemas</p>
-<p>Uma pessoa apaixonada por tecnologia! Sempre tive o sonho em trabalhar com programação e outras áreas da tecnologia.</p>
+<p>Uma pessoa apaixonada por tecnologia!</p>
 
-<p>Atualmente estudando HTML5, CSS3, Javascript</p>
+<p>Atualmente estudando HTML5, CSS3, Javascript, NodeJs, ReactJs</p>
 
 Dá uma olhada no meu portfólio >>> https://mazziera.github.io/portfolio-raphael-mazzieri/
 
